@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashura Majestic</h1>
 <h3 align="center">A passionate Full stack Webdeveloper from India and also know programming languages like Python and C language.</h3>
 <img src="https://www.icegif.com/wp-content/uploads/naruto-icegif-39.gif" alt="Coding" width="400" display="inline">
-- 🌱 I’m currently learning **NodeJS for FULL STACK WebDevelpoer**
+- 🌱 **NodeJS for FULL STACK WebDevelpoer**
 
 - 📫 How to reach me **ashuramajestic@gmail.com**
 
