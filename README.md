@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Nextjs with Prisma<br><br>👨‍💻 All of my projects are available at https://ashuramajestic.netlify.app/<br><br>📝 I regularly write articles on https://ashurawebblog0713.netlify.app/<br><br>💬 Ask me about Full Stack Development<br><br>📫 How to reach me ashuramajestic@gmail.com<br><br>📄 Know about my experiences https://www.canva.com/design/DAGILqNs8ds/UXqNgQXEeuH_SC7LHC_Gcg/edit?utm_content=DAGILqNs8ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br><br>⚡ Fun fact I am Introvert
+🌱 I’m currently learning Nextjs with Prisma<br><br>👨‍💻 All of my projects are available at https://ashuramajestic.netlify.app/<br><br>📝 I regularly write articles on https://ashurawebblog.netlify.app/<br><br>💬 Ask me about Full Stack Development<br><br>📫 How to reach me ashuramajestic@gmail.com<br><br>📄 Know about my experiences https://www.canva.com/design/DAGILqNs8ds/UXqNgQXEeuH_SC7LHC_Gcg/edit?utm_content=DAGILqNs8ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br><br>⚡ Fun fact I am Introvert
 
 
 ## 🌐 Socials:
